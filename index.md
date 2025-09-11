@@ -6,6 +6,15 @@ layout: default
 title: Inicio
 ---
 
+
+### EXPERIENCIA
+
+**Laboral:**
+* **Desarrollador Java, Plexus Tech** - Septiembre 2025 - Actualidad
+* **Desarrollador Java, NTT Data Europe & Latam** - Marzo 2021 - Agosto 2025
+* **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
+
+
 ### ESTUDIOS
 
 * **Máster en Tecnologías y Aplicaciones en Ingeniería Informática** - Universidad de Almería 2025
@@ -18,12 +27,10 @@ title: Inicio
 * **MOOC Redacción en Internet** - Miriada X 2015
 
 
-### EXPERIENCIA
+### COLABORACIÓN Y PARTICIPACIÓN
 
-**Laboral:**
-* **Desarrollador Java, Plexus Tech** - Septiembre 2025
-* **Desarrollador Java, NTT Data Europe & Latam** - Marzo 2021 - Agosto 2025
-* **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
+* **Secretario y CM de UNIA (Asociación Universitarios Informáticos de Almería)** - desde 2015 hasta 2017
+* **Co-coordinador y CM del Club .NET Almería** - desde 2015 hasta 2017
 
 **Charlas impartidas:**
 * Hour of Code CEIP Virgen del Mar, Cabo de Gata (Almería) - Club .NET Almería, febrero 2015
@@ -35,12 +42,6 @@ title: Inicio
 * Introducción a Wave Engine - Club .NET Almería, julio 2015
 
 * Jornada informática CEIP San Sebastián, Santa Bárbara de Casa (Huelva) - enero 2016
-
-
-### COLABORACIÓN Y PARTICIPACIÓN
-
-* **Secretario y CM de UNIA (Asociación Universitarios Informáticos de Almería)** - desde 2015 hasta 2017
-* **Co-coordinador y CM del Club .NET Almería** - desde 2015 hasta 2017
 
 
 ### IDIOMAS

@@ -8,7 +8,7 @@ title: Inicio
 
 ### ESTUDIOS
 
-* **Máster en Tecnologías y Aplicaciones en Ingeniería Informática** - Universidad de Almería 2022 - en curso
+* **Máster en Tecnologías y Aplicaciones en Ingeniería Informática** - Universidad de Almería 2025
 * **Grado en Ingeniería Informática, especialidad Ingeniería de Computadores** - Universidad de Huelva 2021
 
 
@@ -21,7 +21,8 @@ title: Inicio
 ### EXPERIENCIA
 
 **Laboral:**
-* **Desarrollador web, NTT Data Europe & Latam** - Marzo 2021 - Actualidad
+* **Desarrollador Java, Plexus Tech** - Septiembre 2025
+* **Desarrollador Java, NTT Data Europe & Latam** - Marzo 2021 - Agosto 2025
 * **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
 
 **Charlas impartidas:**

@@ -9,7 +9,6 @@ title: Inicio
 
 ### EXPERIENCIA
 
-**Laboral:**
 * **Desarrollador Java, Plexus Tech** - Septiembre 2025 - Actualidad
 * **Desarrollador Java, NTT Data Europe & Latam** - Marzo 2021 - Agosto 2025
 * **Prácticas de empresa en Facultad de Humanidades, Universidad de Huelva** - 2018
@@ -32,6 +31,7 @@ title: Inicio
 * **Secretario y CM de UNIA (Asociación Universitarios Informáticos de Almería)** - desde 2015 hasta 2017
 * **Co-coordinador y CM del Club .NET Almería** - desde 2015 hasta 2017
 
+
 **Charlas impartidas:**
 * Hour of Code CEIP Virgen del Mar, Cabo de Gata (Almería) - Club .NET Almería, febrero 2015
 * Hour of Code IES Sol de Portocarrero, La Cañada (Almería) - Club .NET Almería, febrero 2015
@@ -47,14 +47,6 @@ title: Inicio
 ### IDIOMAS
 
 * Inglés B2
-
-
-### OTRA FORMACIÓN
-
-**Congresos/eventos asistidos:**
-* Microsoft dotNet Conference Spain 2015
-* First Lego League Almería 2016 (voluntariado)
-* Jamtoday Almería 2016
 
 
 ### CONTACTO
